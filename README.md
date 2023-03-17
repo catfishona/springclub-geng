@@ -1,2 +1,2 @@
 # springclub-geng
-Spring Club CS101 Bootcamp
+Spring Club CS101 with Generation Girl
